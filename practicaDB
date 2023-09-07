@@ -1,0 +1,33 @@
+group: Practica
+
+Alumno = {ci	nombre sexo	colegio
+       		359	ana	f    	sucre
+					213	juan	m    	rafael
+					987	ceci	f    	rafael
+					222	hugo	m    	alcides 
+					656	luis	m    	alcides
+					757	pepe	m    	prada}
+
+Materia = {sigla	nomMat area
+					SIS-111	Introduccion-a-la-prog	prog
+					SIS-112	Programacion-I	prog
+					SIS-113	Programacion-II	prog
+					SIS-211	Estructura-de-Datos	prog
+					MAT-132	Calculo-I 	exac
+					MAT-133	Calculo-II	exac}
+
+Nota = {ci	sigla	gestion	calif
+				359	SIS-111	I-16	20
+				359	SIS-112	II-16	55
+				359	SIS-113	I-17	20
+				359	SIS-211	II-17	30
+				359	MAT-132	I-18	51
+				359	MAT-133	I-16	20
+				213	SIS-111	II-16	60
+				213	SIS-112	I-16	100
+				213	SIS-113	I-16	95
+				213	SIS-211	I-16	100
+				213	MAT-132	I-16	90
+				213	MAT-133	II-16	100
+				987	SIS-112	I-16	90
+				987	MAT-132	II-17	70}
